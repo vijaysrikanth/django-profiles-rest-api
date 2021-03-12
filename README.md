@@ -1,2 +1,2 @@
-# profiles Rest Api
-profile REST API code.
+# Profiles Rest Api
+Profile REST API code.
